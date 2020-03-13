@@ -23,6 +23,11 @@ date: 2020-03-09T18:10:17+08:00
 
 自律能力强。
 
+## 项目
+
+[B2C 商城示例](https://github.com/kurumix33/B2C-Example)
+采用ThinkPHP做为后端框架，前端使用Jquery.js以及Layui.js. 项目整体采用Ajax通信，是一个半前后端分离架构。
+
 ## 教育背景
 
 **2018.9 -> 2020.6 绍兴职业技术学院**
